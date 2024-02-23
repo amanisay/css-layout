@@ -376,6 +376,10 @@ section .smallcon .small2 p {
     margin-left: 115px;
 }
 
+.pic img {
+    width: 100%;
+}
+
 #last {
     color: rgb(116, 116, 116);
     text-align: center;
